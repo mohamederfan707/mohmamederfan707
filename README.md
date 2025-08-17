@@ -41,10 +41,8 @@
 
 
 ## 📫 Connect With Me  
-- **Email:** [mhmderfan707@gmail.com](mailto:mhmderfan707@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/mohamed-erfan](https://linkedin.com) _(update with your actual profile link)_  
-- **GitHub:** [github.com/your-username](https://github.com/your-username)  
+- **Email:** [mhmderfan707@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/mohamed-erfan-915069265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+-
 
----
 
-⭐️ _"Turning data into insights, and insights into impact."_
